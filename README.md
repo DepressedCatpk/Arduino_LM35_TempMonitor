@@ -35,4 +35,11 @@ Arduino_LM35_TempMonitor/
 Họ và tên: Phạm Hoàng Nguyên Khôi
 MSSV: N23DCCI036
 Lớp: D23CQCI01-N
-Trang web cá nhân (Portfolio): [https://DepressedCatpk.github.io](https://DepressedCatpk.github.io)
+
+Thành viên nhóm:
+Họ và tên: Lê Văn Hùng
+MSSV: N23DCCI028    
+Lớp: D23CQCI01-N
+
+Trang web cá nhân (Portfolio): [https://DepressedCa
+tpk.github.io](https://DepressedCatpk.github.io)
