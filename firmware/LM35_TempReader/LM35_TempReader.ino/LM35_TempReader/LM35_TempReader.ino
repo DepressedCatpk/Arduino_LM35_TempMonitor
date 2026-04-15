@@ -21,6 +21,8 @@ void loop() {
 
   sprintf(chuoi, "%d,%d\n", (int)nhietDo[0], (int)nhietDo[1]);
   Serial.print(chuoi);
+
+  int valA2 = analogRead(A2); // Sinh vien A them doc kenh A2
   
   delay(100); 
 }
